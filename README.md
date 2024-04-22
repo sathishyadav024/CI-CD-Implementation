@@ -30,9 +30,9 @@ used "git push origin main" to push the changes to central repository
 
 codecommit image : ![alt text](<Screenshot 2024-04-21 182138-1.png>)
 
-ELASTICBEANSTALK :
+# ELASTICBEANSTALK :
 
-The elasticbeanstalk is works as a platform as a aservice
+The elasticbeanstalk is works as a platform as a service
 
 Elastic Beanstalk is a service for deploying and scaling web applications and services. Upload your code and Elastic Beanstalk automatically handles the deployment—from capacity provisioning, load balancing, and auto scaling to application health monitoring.
 
