@@ -1,6 +1,7 @@
   # Streamlining Deployment with AWS: A Comprehensive CI/CD Project
 
   Introduction:
+  
 In the ever-evolving landscape of software development, the quest for efficiency and automation is relentless. Embracing this ethos, I embarked on a journey to construct a robust Continuous Integration and Continuous Deployment (CI/CD) pipeline using AWS services. Leveraging the power of CodePipeline, GitHub, CodeBuild, and Elastic Beanstalk, I sculpted a seamless deployment mechanism to propel my projects forward. 
 
 # DEVELOPMENT OF CI/CD USING AWS :
